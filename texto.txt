@@ -1,6 +1,9 @@
-Desarrollo de la práctica
+﻿Desarrollo de la práctica
 Generador de passwd para
 Casas inteligentes loT
-La empresa SH es una empresa de seguridad y ha  contratado a los estudiantes de Ingeniería en computación de la FI para que realicen un programa que se encargue de generar las claves de acceso a los dispositivos y casas que equipa con internet de las cosas garantizando una mejor seguridad.	 
-En términos simples, el Internet de las cosas (IoT) hace referencia a la tendencia constante de conectar todo tipo de objetos físicos al Internet, especialmente aquellos que quizá ni se imagina. Puede ser cualquier tipo de elemento, desde objetos domésticos comunes, como los refrigeradores 
-y las bombillas; recursos empresariales, como las etiquetas de envío y los dispositivos médicos; hasta elementos portátiles sin precedentes, dispositivos inteligentes e incluso ciudades inteligentes que solo existen gracias al IoT.
+La empresa SH es una empresa de seguridad y ha  contratado a los estudiantes de Ingeniería en computación de la FI para que realicen un programa que 
+se encargue de generar las claves de acceso a los dispositivos y casas que equipa con internet de las cosas garantizando una mejor seguridad.	 
+En términos simples, el Internet de las cosas (IoT) hace referencia a la tendencia constante de conectar todo tipo de objetos físicos al Internet, 
+especialmente aquellos que quizá ni se imagina. Puede ser cualquier tipo de elemento, desde objetos domésticos comunes, como los refrigeradores 
+y las bombillas; recursos empresariales, como las etiquetas de envío y los dispositivos médicos; hasta elementos portátiles sin precedentes, 
+dispositivos inteligentes e incluso ciudades inteligentes que solo existen gracias al IoT.
